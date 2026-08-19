@@ -1,0 +1,9 @@
+pandas
+openpyxl
+duckdb
+jupyter
+matplotlib
+boto3
+pyarrow
+scipy
+ipykernel
